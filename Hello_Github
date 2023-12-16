@@ -1,0 +1,2 @@
+greeting="Hello Githhub!"
+print(greeting)
